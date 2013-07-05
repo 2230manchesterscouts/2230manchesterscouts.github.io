@@ -1,0 +1,31 @@
+﻿body {
+    background: #ddd url(../img/bg.png);
+    padding-top: 60px;
+}
+
+h1 {
+    color: #667FC8;
+	font-family: 'Arvo', Georgia, Times, serif;
+	font-size: 59px;
+	line-height: 70px;
+	margin-bottom: 55px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 25px;
+    margin-top: 1.5em;
+	font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+	font-size: 19px;
+	line-height: 22px;
+}
+
+div.gradient {
+    background: url(../img/gradient.png) no-repeat top center;
+    min-height: 770px;
+}
+
+div.content {
+    text-align: center;
+    margin-top: 1.5em;
+}
